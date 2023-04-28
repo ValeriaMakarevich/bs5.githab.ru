@@ -1,1 +1,1 @@
-# bs5.githab.ru
+# bs5.github.ru
